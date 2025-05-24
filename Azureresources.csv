@@ -1,0 +1,5 @@
+﻿NOM,TYPE,EMPLACEMENT,
+"databrickswk","Service Azure Databricks","East US 2"
+"FactoryPDE","Fabrique de données (V2)","East US 2"
+"stockagedataengineering","Compte de stockage","East US 2"
+"sywk","Synapse workspace","East US 2"
