@@ -14,3 +14,10 @@ Nous avons mis en place une architecture cloud-native complète sur Microsoft Az
 - Orchestration : - Azure Data Factory
 - Modélisation : Azure Synapse Analytics (modèle en étoile) Visualisation : Power BI connecté à Synapse Serverless
 - Sécurité : IAM, Managed Identity, Chiffrement AES-256
+
+# Liens 
+Le lien vers le dépôt GitHub contenant le rapport de rédaction en format PDF et les notebooks du projet : https://github.com/Darryll1/Projet-Data-Engineering-.git
+ 
+Le lien vers le dépôt GitLab contenant les sources de données utilisées : https://gitlab.com/darryll_mariem/Projet_Data_Engineering.git
+
+Lien du rapport Power BI : https://app.powerbi.com/links/VOX6Xww0DM?ctid=413600cf-bd4e-4c7c-8a61-69e73cddf731&pbi_source=linkShare
