@@ -22,7 +22,6 @@ Ce projet vise à construire une **architecture cloud native** complète sur **M
 - Créer des dashboards interactifs dans **Power BI**
 
 ---
-![Architecture du projet](Architecture_Azure.png)
 
 ## Jeu de données
 
@@ -43,6 +42,10 @@ Ce projet vise à construire une **architecture cloud native** complète sur **M
 | Modélisation         | Azure Synapse Analytics (modèle en étoile)      |
 | Visualisation        | Power BI connecté à Synapse Serverless          |
 | Sécurité             | IAM, Managed Identity, chiffrement AES-256      |
+
+<p align="center">
+  <img src="Architecture_Azure.png" alt="Architecture du projet" width="600">
+</p>
 
 ---
 
