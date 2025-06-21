@@ -81,7 +81,7 @@ Deux rapports ont été développés :
    - Coûts mensuels
    - Répartition par sexe, âge, nationalité
 
-2. **Vue individuelle** : Profil d’un patient (ex. Barbara Smith)  
+2. **Vue individuelle** : Profil d’un patient   
    - Allergies, historique de diagnostics, courbes de dépenses
 
 > Le fichier PBIX est disponible dans le dépôt :  
