@@ -43,7 +43,7 @@ Ce projet vise à construire une **architecture cloud native** complète sur **M
 | Visualisation        | Power BI connecté à Synapse Serverless          |
 | Sécurité             | IAM, Managed Identity, chiffrement AES-256      |
 
-<p align="center">
+<p align="left">
   <img src="Architecture_Azure.png" alt="Architecture du projet" width="600">
 </p>
 
