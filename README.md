@@ -22,6 +22,7 @@ Ce projet vise à construire une **architecture cloud native** complète sur **M
 - Créer des dashboards interactifs dans **Power BI**
 
 ---
+![Architecture du projet](Architecture_Azure.png)
 
 ## Jeu de données
 
